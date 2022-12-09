@@ -1,1 +1,3 @@
-# ts-object-master
+# Object Master Coding Dojo Assignment
+
+## Rewritten in Typescript
